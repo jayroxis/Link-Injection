@@ -1,0 +1,37 @@
+hits = 556
+hit rate = 0.05267146646456991
+number of top-scored predictions = 10556
+number of edges in the graph = 10556
+p = 8.974313504503885e-09
+significance = 5869136.0
+MR = 2320.071942446043
+MR Ratio = 0.7802129649065893
+
+
+hits = 436
+hit rate = 0.04130352406214475
+number of top-scored predictions = 10556
+number of edges in the graph = 10556
+p = 8.974313504503885e-09
+significance = 4602416.0
+MR = 1839.823394495413
+MR Ratio = 0.8257082801728484
+
+hits = 463
+hit rate = 0.04386131110269041
+number of top-scored predictions = 10556
+number of edges in the graph = 10556
+p = 8.974313504503885e-09
+significance = 4887428.0
+MR = 2220.2397408207344
+MR Ratio = 0.789670354223121
+
+# ----------------------- best ---------------------------
+hits = 403
+hit rate = 0.038177339901477834
+number of top-scored predictions = 10556
+number of edges in the graph = 10556
+p = 8.974313504503885e-09
+significance = 4254068.0
+MR = 2340.942928039702
+MR Ratio = 0.7782357968890014

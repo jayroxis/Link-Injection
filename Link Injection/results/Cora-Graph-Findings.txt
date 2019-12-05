@@ -1,0 +1,2 @@
+The ratio of pair of nodes that have a path between each other is:
+0.8418946870043136
